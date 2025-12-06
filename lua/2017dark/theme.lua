@@ -1,6 +1,6 @@
 local M = {}
 
-local c = require("dark2017.colors").get_colors()
+local c = require("2017dark.colors").get_colors()
 
 function M.colorscheme()
 	vim.cmd("highlight clear")
