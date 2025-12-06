@@ -8,7 +8,7 @@ function M.colorscheme()
 
 	vim.o.background = "dark"
 	vim.g.termguicolors = true
-	vim.g.colors_name = "vscode_dark"
+	vim.g.colors_name = "2017dark"
 
 	local hl = vim.api.nvim_set_hl
 	local isDark = vim.o.background == "dark"
