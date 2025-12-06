@@ -62,6 +62,7 @@ colors.get_colors = function()
 
 		-- Syntax colors
 		vscChineseSilver = "#C8C8C8",
+		vscWhite = "#FFFFFF",
 		vscGray = "#808080",
 		vscGray50 = "#7F7F7F",
 		vscGray83 = "#DADADA",
