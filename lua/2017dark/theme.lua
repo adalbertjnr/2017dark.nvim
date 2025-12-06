@@ -104,7 +104,7 @@ function M.colorscheme()
 
 	-- Treesitter
 	hl(0, "@error", { fg = c.vscRed, bg = "NONE" }) -- Legacy
-	hl(0, "@punctuation.bracket", { fg = c.vscBlue, bg = "NONE" })
+	hl(0, "@punctuation.bracket", { fg = c.vscPink, bg = "NONE" })
 	hl(0, "@punctuation.special", { fg = c.vscBlue, bg = "NONE" })
 	hl(0, "@punctuation.delimiter", { fg = c.vscChineseSilver, bg = "NONE" })
 	hl(0, "@comment", { fg = c.vscGreen, bg = "NONE", italic = false })
